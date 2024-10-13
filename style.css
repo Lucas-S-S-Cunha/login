@@ -94,3 +94,8 @@ p {
 a:hover {
   font-size: 18px;
 }
+@media (max-width: 900px) {
+  * {
+    scale: 0.95;
+  }
+}
